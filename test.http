@@ -1,0 +1,5 @@
+###
+GET http://localhost:8081/stateless
+
+###
+GET http://localhost:8081/stateful
